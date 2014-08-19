@@ -1,7 +1,7 @@
 PaintWithMe
 ===========
 
-A simple Java application that allowes P2P collaboration when painting.
+A simple Java application that allows P2P collaboration when painting.
 
 Compile all the files like so:
 **`    javac PaintWithMe.java Canvas.java Link.java`** <br>
